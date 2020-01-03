@@ -6,7 +6,7 @@
   "scripts": {
     "test": "mocha -R mocha-multi --reporter-options spec=-,json=.results.json"
   },
-  "author": "flatironschool",
+  "author": "Dut A.",
   "license": "Included in Repo",
   "devDependencies": {
     "babel-core": "6.26.3",
